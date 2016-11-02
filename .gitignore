@@ -1,0 +1,10 @@
+
+*.prefs
+
+.project
+
+*.class
+
+*.xml
+
+*.jar
